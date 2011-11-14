@@ -206,7 +206,6 @@ namespace Newtonsoft.Json.Serialization
         }
       }	
       
-			}
       return contract;
 #endif
     }
